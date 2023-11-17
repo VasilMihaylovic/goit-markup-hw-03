@@ -1,0 +1,145 @@
+.list {list-style-type: none;}
+.link {text-decoration: none;}
+button {cursor: pointer;}
+body{font-family: Roboto, sans-serif; color:#434455;}
+body{background-color: #FFFFFF}
+.logo {color: var(--IRIS,
+        #4D5AE5);
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+.logo-part {color: var(--NAVY-BLUE, #2E2F42);
+font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;}
+  /* Body */
+ .menu-link {color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;}
+    .menu-link:hover,
+    .menu-link:focus{color:#404BBF}
+
+    .menu-addres{font-style: normal;}
+
+        .page-contacts{ color: var(--SLATE, #434455);
+          /* Body */
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 1.5;
+          /* 150% */
+          letter-spacing: 0.02em;}
+         .page-contacts:hover,
+         .page-contacts:focus{color: #404BBF}
+.page-solutions {background: var(--NAVY-BLUE, #2E2F42);}
+.page-solutions-head{color: var(--WHITE, #FFF);
+  /* Header 1 */
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  /* 107.143% */
+  letter-spacing: 0.02em;}
+button {cursor: pointer;}
+.button-order{background: var(--IRIS, #4D5AE5);}
+.button-order {color: var(--WHITE, #FFF);
+  /* Button Text */
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  /* 150% */
+  letter-spacing: 0.04em;}
+.button-order:hover,
+.button-order:focus {
+  background: var(--OCEAN, #404BBF);
+}
+.title-text-feature {color: var(--NAVY-BLUE, #2E2F42);
+    /* Header 3 */
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    /* 120% */
+    letter-spacing: 0.02em;}
+.paragraph-text-feature {color: var(--SLATE, #434455);
+  /* Body */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  /* 150% */
+  letter-spacing: 0.02em;}
+.title-team{background: var(--CLOUD, #F4F4FD);}
+.page-team{color: var(--NAVY-BLUE, #2E2F42);
+  text-align: center;
+  /* Header 2 */
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  /* 111.111% */
+  letter-spacing: 0.02em;
+  text-transform: capitalize;}
+.page-team-list{background-color: #FFFFFF}
+    .team-name{color: var(--NAVY-BLUE, #2E2F42);
+      /* Header 3 */
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 1.2;
+      /* 120% */
+      letter-spacing: 0.02em;}
+      .team-profession{color: var(--SLATE, #434455);
+        /* Body */
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.02em;}
+            .list-portfolio{color: var(--NAVY-BLUE, #2E2F42);
+              /* Header 3 */
+              font-size: 20px;
+              font-weight: 500;
+              line-height: 1.2;
+              /* 120% */
+              letter-spacing: 0.02em;}
+            .name-portfolio{color: var(--SLATE, #434455);
+              /* Body */
+              font-size: 16px;
+              font-weight: 400;
+              line-height: 1.5;
+              /* 150% */
+              letter-spacing: 0.02em;}
+              .page-footer{background: var(--NAVY-BLUE, #2E2F42);}
+              .logo-part-footer{color: var(--CLOUD, #F4F4FD);
+                font-family: Raleway, sans-serif;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 0.03em;
+                /* 116.667% */
+                letter-spacing: 0.54px;
+                text-transform: uppercase;}
+              .logo-footer{color: var(--IRIS, #4D5AE5);
+                font-family: Raleway, sans-serif;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 1.17;
+                /* 116.667% */
+                letter-spacing: 0.03em;
+                text-transform: uppercase;}
+              .text-footer{color: var(--CLOUD, #F4F4FD);
+                /* Body */
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                /* 150% */
+                letter-spacing: 0.02em;}
+
+    
