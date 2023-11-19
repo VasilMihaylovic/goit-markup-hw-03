@@ -195,6 +195,11 @@ border-radius: 0px 0px 4px 4px;}
         line-height: 1.5;
         /* 150% */
         letter-spacing: 0.02em;}
+        .portfolio-text{padding-top: 120px;
+          padding-bottom: 120px;}
+          .list-portfolio-name{margin-bottom: 72px;}
+          .list-portfolio-name{column-gap: 24px;
+          row-gap: 48px}
             .list-portfolio{color: var(--NAVY-BLUE, #2E2F42);
               /* Header 3 */
               font-size: 20px;
