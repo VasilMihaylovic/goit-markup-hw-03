@@ -127,7 +127,6 @@ margin-right: auto;
 
 .list-team{display: flex;
 gap: 24px;}
-.feature-head{margin-bottom: 8px;}
 .text-feature{padding-top: 120px;
 padding-bottom: 120px;}
 .list-calc{width: calc((100% - 72px) / 4);}
