@@ -219,8 +219,8 @@ border-radius: 0px 0px 4px 4px;}
           
               
               }
-              .portfolio-section{padding-top: 120px;
-              padding-bottom: 120px;}
+              .portfolio-section{padding: 120px 0;
+              }
             .name-portfolio{color: var(--SLATE, #434455);
               /* Body */
               font-size: 16px;
