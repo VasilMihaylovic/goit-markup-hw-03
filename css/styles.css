@@ -59,6 +59,8 @@ padding-top: 24px;
          .page-contacts:focus{color: #404BBF}
 .page-solutions {background: var(--NAVY-BLUE, #2E2F42);
   align-items: center;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .page-solutions-head{color: var(--WHITE, #FFF);
   /* Header 1 */
