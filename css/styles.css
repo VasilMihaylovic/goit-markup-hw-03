@@ -33,7 +33,7 @@ font-family: Raleway, sans-serif;
   column-gap: 40px;
 padding-top: 24px;
   padding-bottom: 24px;
-gap: 40px;}
+}
   /* Body */
  .menu-link {color: #2e2f42;
     font-size: 16px;
@@ -71,6 +71,11 @@ gap: 40px;}
   letter-spacing: 0.02em;}
 button {cursor: pointer;}
 .button-order{background: var(--IRIS, #4D5AE5);
+display: inline-flex;
+  padding: 16px 32px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 4px;
 
 }
 .button-order {color: var(--WHITE, #FFF);
