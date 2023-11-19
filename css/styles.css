@@ -129,7 +129,7 @@ margin-right: auto;
 gap: 24px;}
 .text-feature{padding-top: 120px;
 padding-bottom: 120px;}
-
+.list-calc{width: calc((100% - 72px) / 4);}
 .title-text-feature {color: var(--NAVY-BLUE, #2E2F42);
     /* Header 3 */
     font-size: 20px;
