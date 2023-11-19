@@ -44,9 +44,11 @@ padding-top: 24px;
     .menu-link:hover,
     .menu-link:focus{color:#404BBF}
 
-    .menu-addres{font-style: normal;}
-     .list-adres{display: flex; column-gap: 40px;
-    padding-top: 24px;
+    .menu-addres{font-style: normal;
+     column-gap: 40px;}
+     .list-adres{display: flex; 
+      column-gap: 40px;
+      padding-top: 24px;
       padding-bottom: 24px;}
         .page-contacts{ color: var(--SLATE, #434455);
           /* Body */
