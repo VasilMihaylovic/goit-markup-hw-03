@@ -176,7 +176,8 @@ margin-right: auto;
 .page-team-list{background-color:#FFFFFF;
 border-radius: 0px 0px 4px 4px;}
 .team-profession
-.tns-list{padding: 32px 0;}
+.tns-list{padding-top: 32px;
+   padding-bottom: 32px;}
     .team-name{color: var(--NAVY-BLUE, #2E2F42);
       /* Header 3 */
       text-align: center;
