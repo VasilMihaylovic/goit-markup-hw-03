@@ -32,7 +32,8 @@ font-family: Raleway, sans-serif;
   .menu{display: flex;
   column-gap: 40px;
 padding-top: 24px;
-  padding-bottom: 24px;}
+  padding-bottom: 24px;
+gap: 40px;}
   /* Body */
  .menu-link {color: #2e2f42;
     font-size: 16px;
