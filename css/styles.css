@@ -144,6 +144,7 @@ margin-right: auto;
   /* 150% */
   letter-spacing: 0.02em;}
 .title-team{background: var(--CLOUD, #F4F4FD);
+  padding: 120px 0;
 }
 .page-team{color: var(--NAVY-BLUE, #2E2F42);
   margin-bottom: 72px;
@@ -175,7 +176,7 @@ margin-right: auto;
 .page-team-list{background-color:#FFFFFF;
 border-radius: 0px 0px 4px 4px;}
 .team-profession
-.tns{padding: 32px 0}
+.tns-list{padding: 32px 0}
     .team-name{color: var(--NAVY-BLUE, #2E2F42);
       /* Header 3 */
       text-align: center;
@@ -207,6 +208,8 @@ border-radius: 0px 0px 4px 4px;}
               line-height: 1.5;
               /* 150% */
               letter-spacing: 0.02em;}
+
+              /*=========footer=======*/
               .page-footer{background: var(--NAVY-BLUE, #2E2F42);}
               .logo-part-footer{color: var(--CLOUD, #F4F4FD);
                 font-family: Raleway, sans-serif;
