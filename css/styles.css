@@ -62,6 +62,7 @@ padding-top: 24px;
 }
 .page-solutions-head{color: var(--WHITE, #FFF);
   /* Header 1 */
+  max-width: 496px;
   padding-top: 188px;
   text-align: center;
   font-size: 56px;
