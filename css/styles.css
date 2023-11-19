@@ -30,7 +30,7 @@ font-family: Raleway, sans-serif;
         justify-content: space-between;
       align-items: center;}
   .menu{display: flex;
-  column-gap: 40px;
+  gap: 40px;
 padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -45,7 +45,7 @@ padding-top: 24px;
     .menu-link:focus{color:#404BBF}
 
     .menu-addres{font-style: normal;
-     column-gap: 40px;}
+    }
      .list-adres{display: flex; 
       column-gap: 40px;
       padding-top: 24px;
@@ -66,8 +66,14 @@ padding-top: 24px;
 }
 .page-solutions-head{color: var(--WHITE, #FFF);
   /* Header 1 */
+margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 48px;
+  margin-top: 188px;
+  display: block;
   max-width: 496px;
-  padding-top: 188px;
+padding-bottom: 24px;
+  padding-top: 24px;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
@@ -77,7 +83,9 @@ padding-top: 24px;
 button {cursor: pointer;}
 .button-order{background: var(--IRIS, #4D5AE5);
 display: block;
-  padding: 16px 32px;
+margin-left: auto;
+margin-right: auto;
+  padding: 16px 32px; 
   align-items: flex-start;
   gap: 10px;
   border-radius: 4px;
@@ -88,6 +96,7 @@ display: block;
 }
 .button-order {color: var(--WHITE, #FFF);
   /* Button Text */
+  margin-bottom: 188px;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
