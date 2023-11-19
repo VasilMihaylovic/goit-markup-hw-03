@@ -71,11 +71,14 @@ padding-top: 24px;
   letter-spacing: 0.02em;}
 button {cursor: pointer;}
 .button-order{background: var(--IRIS, #4D5AE5);
-display: inline-flex;
+display: block;
   padding: 16px 32px;
   align-items: flex-start;
   gap: 10px;
   border-radius: 4px;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 
 }
 .button-order {color: var(--WHITE, #FFF);
