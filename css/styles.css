@@ -228,6 +228,7 @@ border-radius: 0px 0px 4px 4px;}
               line-height: 1.5;
               /* 150% */
               letter-spacing: 0.02em;}
+              .list-calc-portfolio{width: calc((100% - 48px) / 3);}
 
               /*=========footer=======*/
               .page-footer{background: var(--NAVY-BLUE, #2E2F42);
