@@ -47,7 +47,7 @@ padding-top: 24px;
     .menu-addres{font-style: normal;
     }
      .list-adres{display: flex; 
-      column-gap: 40px;
+      gap: 40px;
       padding-top: 24px;
       padding-bottom: 24px;}
         .page-contacts{ color: var(--SLATE, #434455);
