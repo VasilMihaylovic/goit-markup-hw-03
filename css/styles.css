@@ -146,6 +146,7 @@ margin-right: auto;
 .title-team{background: var(--CLOUD, #F4F4FD);
 }
 .page-team{color: var(--NAVY-BLUE, #2E2F42);
+  margin-bottom: 72px;
   text-align: center;
   /* Header 2 */
   font-size: 36px;
@@ -170,7 +171,7 @@ margin-right: auto;
   .img-list{display: flex;
   flex-wrap: wrap;
 }
-.img-list-team{column-gap: 24px;}
+.img-list-team{gap: 24px;}
 .page-team-list{background-color:#FFFFFF;
 border-radius: 0px 0px 4px 4px;}
     .team-name{color: var(--NAVY-BLUE, #2E2F42);
