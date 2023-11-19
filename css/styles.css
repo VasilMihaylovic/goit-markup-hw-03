@@ -6,7 +6,7 @@ body{background-color: #FFFFFF}
 .flex-container{display: flex;
 justify-content: space-between;}
 
-
+.page-header{border-bottom: 1px solid #e7e9fc}
 .logo {color: var(--IRIS,
         #4D5AE5);
         margin-right: 76px;
